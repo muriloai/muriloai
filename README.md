@@ -42,7 +42,7 @@ A **DXS** é uma marca que centraliza os serviços que ofereço, além de manter
 
 ---
 
-### 📫 Como Me Encontrar
+### 📫 Como me Encontrar?
 
 <div align="center">
   <a href="https://www.youtube.com/@dxsdataxtudios" target="_blank">
