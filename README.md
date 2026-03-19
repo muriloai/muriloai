@@ -14,8 +14,8 @@ A **DXS** é uma marca que centraliza os serviços que ofereço, além de manter
 
 <div align="center">
   <a href="https://github.com/muriloai">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=muriloai&show_icons=true&theme=transparent&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloai&layout=compact&theme=transparent&theme=github_dark&langs_count=8&custom_title=Linguagens%20Mais%20Usadas"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=muriloai&show_icons=true&theme=github_dark&bg_color=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloai&layout=compact&theme=github_dark&bg_color=transparent&hide_border=true&langs_count=8&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens Mais Usadas"/>
   </a>
 </div>
 
