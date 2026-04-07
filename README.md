@@ -4,7 +4,7 @@ Com mais de 13 anos de experiência prática em desenvolvimento de software, min
 
 Tenho forte domínio na criação de soluções completas de ponta a ponta, desde a modelagem de banco de dados e levantamento de requisitos até a implementação utilizando os ecossistemas .NET e Angular. Além de ter uma base de estudos acadêmica em Java com JUnit e uma certa experiência com scripts Python e sistemas web em PHP.
 
-Tenho extensões oficiais publicadas no **Chrome Web Extensions** que são feitas em javascript, além de aplicações que auxiliam a vida do editor de vídeo e do desenvolvedor de software que estão publicadas no site DXS.
+Tenho extensões oficiais publicadas no **Chrome Web Extensions**, além de outras aplicações que auxiliam a vida do editor de vídeo e do desenvolvedor de software que estão publicadas no site DXS.
 
 Meu perfil é voltado para a resolução de problemas e entrega de valor: construo e dou manutenção em sistemas web e desktop, focando em códigos limpos e lógicas eficientes. 
 
@@ -36,8 +36,6 @@ A **DXS** é uma marca que centraliza os serviços que ofereço, além de manter
   <img align="center" alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="SQL Server" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Laravel" height="50" width="50" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/laravel/laravel-original.svg">
-  <img align="center" alt="CodeIgniter" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
-  <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ---
