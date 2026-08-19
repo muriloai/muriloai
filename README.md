@@ -1,16 +1,20 @@
 ## 👋 Analista e Desenvolvedor de Sistemas | Full Stack
 
-Com mais de 13 anos de experiência prática em desenvolvimento de software, minha especialidade é transformar necessidades reais de negócios em sistemas funcionais.
+Tenho mais de 13 anos na área de tecnologia, sendo os últimos 6 dedicados exclusivamente ao desenvolvimento de software, trabalho na criação de soluções completas, atuando desde a modelagem do banco de dados até a entrega final do projeto.
 
-Tenho forte domínio na criação de soluções completas de ponta a ponta, desde a modelagem de banco de dados e levantamento de requisitos até a implementação utilizando os ecossistemas .NET e Angular. Além de ter uma base de estudos acadêmica em Java com JUnit e uma certa experiência com scripts Python e sistemas web em PHP.
+Minha stack principal envolve **C#, .NET, Angular, TypeScript e SQL Server**. Também possuo base acadêmica em Java e alguma experiência prática com PHP e Python.
 
-Tenho extensões oficiais publicadas no **Chrome Web Extensions**, além de outras aplicações que auxiliam a vida do editor de vídeo e do desenvolvedor de software que estão publicadas no site DXS.
+**💡 Impacto e Resultados Reais**
+* Atuei na modernização de um ERP de saúde com mais de 900 telas.
+* Desenvolvi solução que reduziu o tempo de entrada de dados em fichas físicas de 17,5 para apenas 1,5 minuto.
+* Tive experiência prática com atualização de dependências em sistemas legados .NET Framework e migrações de versão (como Angular 7 para 14).
 
-Meu perfil é voltado para a resolução de problemas e entrega de valor: construo e dou manutenção em sistemas web e desktop, focando em códigos limpos e lógicas eficientes. 
+**🚀 Projetos e Ecossistema DXS**
+Sou o criador da **DXS**, marca onde centralizo meus serviços e ferramentas, é através dela que distribuo:
+* Extensões oficiais publicadas na **Chrome Web Store**.
+* Aplicações de produtividade que auxiliam o dia a dia de editores de vídeo e desenvolvedores, com foco em privacidade.
 
-Atualmente, estou expandindo meu ferramental técnico ativamente em ecossistemas Cloud e integrações com Inteligência Artificial.
-
-A **DXS** é uma marca que centraliza os serviços que ofereço, além de manter canais oficiais com conteúdos e insights que auxiliam no dia a dia de profissionais envolvidos nas áreas de audiovisual, marketing e desenvolvimento de software.
+Atualmente estou focado no ecossistema Cloud (possuo certificação **Microsoft Azure AZ-900**), arquitetura com Docker, mensageria e nas versões LTS mais recentes do .NET e Angular.
 
 <div align="center">
   <a href="https://github.com/muriloai">
@@ -21,7 +25,7 @@ A **DXS** é uma marca que centraliza os serviços que ofereço, além de manter
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 💻 Tecnologias e Ferramentas
 <p align="center">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -40,7 +44,7 @@ A **DXS** é uma marca que centraliza os serviços que ofereço, além de manter
 
 ---
 
-### 📫 Como me Encontrar?
+### 📫 Como me Encontrar
 
 <div align="center">
   <a href="https://www.youtube.com/@dxsdataxtudios" target="_blank">
@@ -55,7 +59,7 @@ A **DXS** é uma marca que centraliza os serviços que ofereço, além de manter
   <a href="https://www.linkedin.com/in/muriloabreuinacio" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://dataxstudios.com.br/blog" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-DataXStudios-blue?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
+  <a href="https://dataxstudios.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Site-DataXStudios-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </div>
