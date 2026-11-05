@@ -1,17 +1,43 @@
 # Murilo de Abreu Inácio
 ### Analista de Sistemas e Desenvolvedor Full Stack (.NET e Angular)
 
-Trabalho com **desenvolvimento de software há 6 anos**, com mais de 13 anos de experiência geral em TI, então já atuei em todo o fluxo da aplicação: desde os requisitos, modelagem do banco, regras de negócio, até a tela no frontend e o suporte em produção.
+Atuo com **desenvolvimento de software há 6 anos** e tenho mais de 13 anos de experiência em TI. Minha experiência abrange levantamento de requisitos, modelagem de dados, implementação de regras de negócio, desenvolvimento de interfaces e suporte em produção.
 
 Minha stack principal é **C#, .NET (Framework e Core), Angular (v7 ao v14), TypeScript, JavaScript e SQL Server**, com bastante prática em refatoração e modernização de código legado.
 
 ---
 
-### Resultados e Projetos Práticos
+### Experiência e resultados
 
 * **Modernização de ERP de saúde (900+ telas):** Participei da migração do frontend do Angular 7 para o 14, escrevi mais de 130 testes automatizados com Jasmine, Karma e Cypress para evitar bugs em regras críticas e atualizei mais de 100 dependências antigas em .NET Framework.
 * **Automação de processo interno:** Desenvolvi um sistema desktop em .NET que reduziu o tempo de digitação de fichas de 17,5 minutos para apenas 1,5 minuto por cadastro.
 * **Migração de legados:** Passei sistemas antigos feitos em ASP clássico e ASPX para versões modernas em PHP com MySQL.
+
+---
+
+### Projetos públicos em destaque
+
+Projetos próprios e demonstrações técnicas que exploram modernização de sistemas, regras de negócio e integração entre aplicações.
+
+#### [Cobrança Web](https://github.com/muriloai/cobranca-web-dotnet)
+
+Sistema de negociação e acompanhamento de cobranças que integra uma aplicação legada em ASP.NET MVC 5 a uma API em .NET 8, com SQL Server compartilhado. Demonstra a evolução de contratos de API com consultas v1 e v2, preservando o formato utilizado pelo consumidor legado e acrescentando o detalhamento das parcelas na nova versão.
+
+**Tecnologias:** C#, .NET Framework 4.8, ASP.NET Core 8 e SQL Server.
+
+#### [Healthcare Claims API](https://github.com/muriloai/healthcare-claims-api)
+
+API para emissão e consulta de guias médicas, com validação de vigência, carência e credenciamento. Explora autorização por prestador, respostas de erro padronizadas com Problem Details e testes de integração para regras de negócio e controle de acesso.
+
+**Tecnologias:** C#, .NET 10, Minimal APIs, Entity Framework Core, SQLite e MSTest.
+
+#### [Order Orchestrator](https://github.com/muriloai/order-orchestrator)
+
+Demonstração de processamento assíncrono de pedidos e baixa de estoque, com API, workers e interface Angular. Explora reentrega de mensagens, deduplicação de eventos para evitar baixas repetidas e rastreamento distribuído com OpenTelemetry e Jaeger.
+
+**Tecnologias:** C#, .NET 10, Angular, RabbitMQ, SQL Server, SignalR e OpenTelemetry.
+
+[Ver todos os repositórios públicos](https://github.com/muriloai?tab=repositories)
 
 ---
 
