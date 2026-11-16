@@ -3,16 +3,16 @@
 
 Atuo com **desenvolvimento de software há 6 anos** e tenho mais de 13 anos de experiência em TI. Minha experiência abrange levantamento de requisitos, modelagem de dados, implementação de regras de negócio, desenvolvimento de interfaces e suporte em produção.
 
-Minha stack principal é **C#, .NET (Framework e Core), Angular (v7 ao v14), TypeScript, JavaScript e SQL Server**, com bastante prática em refatoração e modernização de código legado.
+Minha stack principal é **C#, .NET (Framework e Core), Angular (v7 ao v14), TypeScript, JavaScript e SQL Server**, com bastante prática em refatoração, sustentação e modernização de código legado.
 
 ---
 
-### Experiência e resultados
+### Experiência e projetos práticos
 
-* **Modernização de ERP de saúde (900+ telas):** Participei da migração do frontend do Angular 7 para o 14, escrevi mais de 130 testes automatizados com Jasmine, Karma e Cypress para evitar bugs em regras críticas e atualizei mais de 100 dependências antigas em .NET Framework. Também mantenho laboratórios comparando implementações no legado e nas versões atuais em [.NET (4.8 vs 10)](https://github.com/muriloai/dotnet-modernization-lab) e [Angular (v15 vs v22)](https://github.com/muriloai/angular-modernization-lab).
-* **Automação de processo interno:** Desenvolvi o [Survey Data Entry](https://github.com/muriloai/winforms-survey-data-entry), um sistema desktop em C# e SQLite que reduziu o tempo de digitação de fichas de 17,5 minutos para apenas 1,5 minuto por cadastro.
-* **Ferramentas desktop e segurança no Windows:** Criei o [NetStatAnalyzer](https://github.com/muriloai/NetStatAnalyzer) em .NET 8 para monitoramento em tempo real de conexões TCP/UDP, tráfego por processo e auditoria de tarefas agendadas no Windows, além do [Core Search](https://github.com/muriloai/CoreSearch) para busca rápida em arquivos extensos de código-fonte.
-* **Migração de legados e arquitetura de sistemas:** Passei sistemas antigos feitos em ASP clássico e ASPX para versões modernas em PHP com MySQL e desenvolvi projetos práticos de integração e regras de negócio, como o [Cobrança Web](https://github.com/muriloai/cobranca-web-dotnet) (MVC 5 + .NET 8), a [Healthcare Claims API](https://github.com/muriloai/healthcare-claims-api) (.NET 10) e o [Order Orchestrator](https://github.com/muriloai/order-orchestrator) (.NET 10, Angular e RabbitMQ).
+* **Evolução e modernização em produção:** Atuação na migração do frontend do Angular 7 para o 14 em sistema corporativo da área de saúde, criação de testes automatizados com Jasmine, Karma e Cypress para proteger fluxos críticos e atualização de componentes e dependências legadas em .NET Framework.
+* **Automação operacional e migração de legados:** Desenvolvimento de sistema desktop em .NET que reduziu o tempo de digitação de fichas de 17,5 minutos para 1,5 minuto por cadastro, além da migração de aplicações antigas em ASP clássico e ASPX para versões modernas em PHP com MySQL.
+* **Coexistência e refatoração de código legado:** No projeto [Cobrança Web](https://github.com/muriloai/cobranca-web-dotnet), integro uma aplicação legada em ASP.NET MVC 5 (.NET Framework 4.8) a uma API em .NET 8 sobre o mesmo SQL Server, evoluindo contratos HTTP (`v1` e `v2`) sem quebrar consumidores antigos. No [Survey Data Entry](https://github.com/muriloai/winforms-survey-data-entry), reestruturei e evoluí uma solução desktop de 2018 em C# Windows Forms, migrando de MySQL externo para SQLite local com transações ACID e interface reformulada.
+* **APIs, regras de negócio e mensageria:** Na [Healthcare Claims API](https://github.com/muriloai/healthcare-claims-api), implemento validação e emissão de guias médicas em .NET 10 com autorização isolada por prestador e respostas de erro padronizadas (Problem Details). No [Order Orchestrator](https://github.com/muriloai/order-orchestrator), demonstro processamento assíncrono de pedidos e deduplicação de estoque com .NET 10, Angular, RabbitMQ, SQL Server e OpenTelemetry.
 
 ---
 
