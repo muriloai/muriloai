@@ -8,22 +8,74 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@dataxstudios.com.br)
 [![Azure AZ-900](https://img.shields.io/badge/Microsoft_Certified-AZ--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/)
 
+<p>Mais de <strong>6 anos de experiência acumulada em desenvolvimento de software</strong> · Graduado em <strong>ADS (Fatec)</strong> · Pós-graduado em <strong>Big Data Analytics</strong></p>
+
 </div>
 
 ---
 
-### Sobre mim
+### Experiência e Resultados na Prática
 
-Tenho **mais de 6 anos de experiência acumulada em desenvolvimento de software**, atuando desde o levantamento de requisitos e modelagem de dados até a implementação de regras de negócio, interfaces e sustentação em produção.
-
-* **Sustentação e Evolução Corporativa:** Migração de frontend **Angular (v7 → v14)** em ERP de saúde, criação de testes automatizados (**Jasmine, Karma e Cypress**) e manutenção de backends e bancos em **.NET Framework e SQL Server**.
-* **Modernização de Sistemas Legados:** Reestruturação de aplicações antigas (**ASP clássico, ASPX, MVC 5 e WinForms**) para arquiteturas atuais, preservando contratos e regras críticas de negócio.
-* **Automação & Soluções Web (DXS):** Sistema desktop em .NET que reduziu a digitação de fichas de **17,5 min para 1,5 min**, sites estáticos em **Astro (90%+ Google PageSpeed/SEO)**, extensões **Chrome** e ferramentas web *privacy-first*.
-* **Formação:** Graduado em **Análise e Desenvolvimento de Sistemas** (Fatec) e pós-graduado em **Big Data Analytics**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏥 ERP Corporativo de Saúde</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-v7_→_v14-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET_Framework-4.8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      </p>
+      <ul>
+        <li>Migração gradual do frontend <strong>Angular 7 para 14</strong> e criação de componentes dinâmicos orientados por metadados.</li>
+        <li>Suíte de testes automatizados com <strong>Jasmine, Karma e Cypress</strong> protegendo regras críticas em produção.</li>
+        <li>Sustentação de backend <strong>C# / Web API</strong>, atualização de pacotes legados e manutenção de procedures/views no SQL Server.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔄 Modernização e Migração de Legados</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Legado-ASP_/_ASPX_/_MVC_5-4B5563?style=flat-square" />
+        <img src="https://img.shields.io/badge/Destino-.NET_8/10_&_PHP-2563EB?style=flat-square" />
+      </p>
+      <ul>
+        <li>Coexistência entre sistemas legados (<strong>ASP.NET MVC 5 / WinForms</strong>) e APIs modernas sem interromper a operação.</li>
+        <li>Migração de plataformas internas de <strong>ASP clássico e ASPX</strong> para arquiteturas modernas com reestruturação de banco de dados.</li>
+        <li>Evolução segura de contratos HTTP (<code>v1 → v2</code>) e tratamento padronizado de falhas sem exposição de queries.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Automação Operacional & Integrações</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Tempo_por_Ficha-17,5m_→_1,5m_(-91%25)-16A34A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Desktop-C%23_WinForms_/_WPF-512BD4?style=flat-square" />
+      </p>
+      <ul>
+        <li>Desenvolvimento de aplicação desktop em <strong>.NET</strong> que reduziu a digitação de formulários de <strong>17,5 para 1,5 minuto</strong>.</li>
+        <li>Soluções desktop para atendimento multitarefa (ANTT) e refatoração de persistência para <strong>SQLite com transações ACID</strong>.</li>
+        <li>Integração com APIs de pagamento (créditos por FIFO, validade e reembolso) e serviços externos.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Freelance & Produtos Próprios (DXS)</h4>
+      <p>
+        <img src="https://img.shields.io/badge/PageSpeed_/_SEO-90%25+-16A34A?style=flat-square&logo=pagespeedinsights&logoColor=white" />
+        <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+      </p>
+      <ul>
+        <li>Atuação freelance em <strong>evolução e manutenção de sistemas</strong>, correções e melhorias de performance.</li>
+        <li>Entrega de sites comerciais em <strong>Astro</strong> com CI/CD via GitHub Actions e nota <strong>90%+ em SEO e performance</strong>.</li>
+        <li>Extensões publicadas na <strong>Chrome Web Store</strong> e ferramentas web em JavaScript com execução 100% local (<em>privacy-first</em>).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Projetos em Destaque
+### Projetos Públicos em Destaque
 
 <div align="center">
   <a href="https://github.com/muriloai/cobranca-web-dotnet">
