@@ -1,64 +1,87 @@
+<div align="center">
+
 # Murilo de Abreu Inácio
-### Analista de Sistemas e Desenvolvedor Full Stack (.NET e Angular)
+### Analista de Sistemas & Desenvolvedor Full Stack (.NET | Angular | SQL Server)
 
-Tenho **mais de 6 anos de experiência acumulada em desenvolvimento de software**, atuando no levantamento de requisitos, modelagem de dados, implementação de regras de negócio, construção de interfaces e sustentação em produção.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloabreuinacio)
+[![DataX Studios](https://img.shields.io/badge/DataX_Studios-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dataxstudios.com.br)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@dataxstudios.com.br)
+[![Azure AZ-900](https://img.shields.io/badge/Microsoft_Certified-AZ--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/)
 
-Minha stack principal é **C#, .NET (Framework e Core), Angular (v7 ao v14), TypeScript, JavaScript e SQL Server**, com bastante prática em refatoração, sustentação e modernização de código legado.
-
----
-
-### Experiência e projetos práticos
-
-* **Evolução e modernização em produção:** Atuação na migração do frontend do Angular 7 para o 14 em sistema corporativo da área de saúde, criação de testes automatizados com Jasmine, Karma e Cypress para proteger fluxos críticos e atualização de componentes e dependências legadas em .NET Framework.
-* **Automação operacional e migração de legados:** Desenvolvimento de sistema desktop em .NET que reduziu o tempo de digitação de fichas de 17,5 minutos para 1,5 minuto por cadastro, além da migração de aplicações antigas em ASP clássico e ASPX para versões modernas em PHP com MySQL.
-* **Coexistência e refatoração de código legado:** No projeto [Cobrança Web](https://github.com/muriloai/cobranca-web-dotnet), integro uma aplicação legada em ASP.NET MVC 5 (.NET Framework 4.8) a uma API em .NET 8 e frontend Angular sobre o mesmo SQL Server, evoluindo contratos HTTP (`v1` e `v2`) sem quebrar consumidores antigos. No [Survey Data Entry](https://github.com/muriloai/winforms-survey-data-entry), reestruturei uma solução desktop de 2018 em C# Windows Forms, migrando de MySQL externo para SQLite local com transações ACID e interface reformulada.
-* **APIs, banco de dados e sistemas distribuídos:** Na [Healthcare Claims API](https://github.com/muriloai/healthcare-claims-api), implemento validação de guias médicas em .NET 10 com isolamento por prestador, testes de integração e erros padronizados (Problem Details). No [Gestão de Orçamentos](https://github.com/muriloai/gestao-orcamentos-razor-sqlserver), desenvolvi o controle de propostas comerciais em ASP.NET Core 10, Razor e SQL Server com preservação de histórico de envio e análise de planos de execução, enquanto no [Order Orchestrator](https://github.com/muriloai/order-orchestrator) demonstro processamento assíncrono e deduplicação de estoque com .NET 10, Angular, RabbitMQ e OpenTelemetry.
+</div>
 
 ---
 
-### Tecnologias
+### Sobre mim
 
-#### No trabalho e produção
-*O que uso no dia a dia corporativo:*
+Tenho **mais de 6 anos de experiência acumulada em desenvolvimento de software**, atuando desde o levantamento de requisitos e modelagem de dados até a implementação de regras de negócio, interfaces e sustentação em produção.
 
-<p align="left">
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" />
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" />
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" />
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" />
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" />
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass/SCSS" title="Sass/SCSS" />
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" />
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure DevOps" title="Azure DevOps" />
-</p>
+* **Sustentação e Evolução Corporativa:** Migração de frontend **Angular (v7 → v14)** em ERP de saúde, criação de testes automatizados (**Jasmine, Karma e Cypress**) e manutenção de backends e bancos em **.NET Framework e SQL Server**.
+* **Modernização de Sistemas Legados:** Reestruturação de aplicações antigas (**ASP clássico, ASPX, MVC 5 e WinForms**) para arquiteturas atuais, preservando contratos e regras críticas de negócio.
+* **Automação & Soluções Web (DXS):** Sistema desktop em .NET que reduziu a digitação de fichas de **17,5 min para 1,5 min**, sites estáticos em **Astro (90%+ Google PageSpeed/SEO)**, extensões **Chrome** e ferramentas web *privacy-first*.
+* **Formação:** Graduado em **Análise e Desenvolvimento de Sistemas** (Fatec) e pós-graduado em **Big Data Analytics**.
 
-#### Projetos próprios e atuação freelance (DXS)
-*Soluções e ferramentas que desenvolvo e mantenho:*
+---
 
-<p align="left">
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" title="Astro" />
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome Extensions" title="Chrome Extensions" />
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" />
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" />
-</p>
+### Projetos em Destaque
 
-* **Evolução e manutenção de sistemas:** Atuação freelance em melhorias, correções e evolução de aplicações web e integrações.
-* **Sites estáticos de alta performance:** Projetos desenvolvidos em Astro com deploy automatizado via GitHub Actions e pontuação acima de 90% em SEO e desempenho no Google PageSpeed.
-* **Extensões para o Chrome e ferramentas web:** Extensões publicadas na Chrome Web Store e utilitários em JavaScript na plataforma da DataX Studios que processam os dados diretamente no navegador, garantindo privacidade ao usuário.
+<div align="center">
+  <a href="https://github.com/muriloai/cobranca-web-dotnet">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=muriloai&repo=cobranca-web-dotnet&theme=dark_github_repocard&bg_color=0d1117" alt="Cobrança Web" />
+  </a>
+  <a href="https://github.com/muriloai/winforms-survey-data-entry">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=muriloai&repo=winforms-survey-data-entry&theme=dark_github_repocard&bg_color=0d1117" alt="Survey Data Entry" />
+  </a>
+  <a href="https://github.com/muriloai/healthcare-claims-api">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=muriloai&repo=healthcare-claims-api&theme=dark_github_repocard&bg_color=0d1117" alt="Healthcare Claims API" />
+  </a>
+  <a href="https://github.com/muriloai/gestao-orcamentos-razor-sqlserver">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=muriloai&repo=gestao-orcamentos-razor-sqlserver&theme=dark_github_repocard&bg_color=0d1117" alt="Gestão de Orçamentos" />
+  </a>
+  <a href="https://github.com/muriloai/order-orchestrator">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=muriloai&repo=order-orchestrator&theme=dark_github_repocard&bg_color=0d1117" alt="Order Orchestrator" />
+  </a>
+  <a href="https://github.com/muriloai/NetStatAnalyzer">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=muriloai&repo=NetStatAnalyzer&theme=dark_github_repocard&bg_color=0d1117" alt="NetStatAnalyzer" />
+  </a>
+</div>
 
-#### Estudos e aprofundamento
-*O que venho estudando e praticando:*
+---
 
-<p align="left">
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" title="Microsoft Azure" />
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
-</p>
+### Stack Tecnológica
 
-* Tenho certificação **Microsoft Certified: Azure Fundamentals (AZ-900)**.
-* Estou aprofundando em Docker, mensageria e nas versões mais recentes do .NET e do Angular.
-* Formação: Análise e Desenvolvimento de Sistemas e pós-graduação em Big Data Analytics.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">Backend, Frontend & Dados</h4>
+      <p align="center">
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" />&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET Framework" title=".NET Framework" />&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core / .NET 8+" title=".NET Core / .NET 8+" />&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" />&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" />&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" />
+      </p>
+      <p align="center"><sub>C# · .NET Framework & .NET 8/10 · ASP.NET MVC/Core · Angular · TypeScript · SQL Server · EF Core</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">DevOps, Cloud & Projetos Web</h4>
+      <p align="center">
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" title="Azure & Azure DevOps" />&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" />&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" />&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" />&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" title="Astro" />&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome Extensions" title="Chrome Extensions" />&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" />
+      </p>
+      <p align="center"><sub>Azure (AZ-900) · Azure DevOps · GitHub Actions · Docker · RabbitMQ · Astro · Chrome Extensions</sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -66,23 +89,7 @@ Minha stack principal é **C#, .NET (Framework e Core), Angular (v7 ao v14), Typ
 
 <div align="center">
   <a href="https://github.com/muriloai">
-    <img src="https://github-stats-extended.vercel.app/api?username=muriloai&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" height="145" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=muriloai&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&langs_count=8&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens Mais Usadas" height="145" />
+    <img src="https://github-stats-extended.vercel.app/api?username=muriloai&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" height="155" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=muriloai&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&langs_count=8&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens Mais Usadas" height="155" />
   </a>
-</div>
-
----
-
-### Onde me encontrar
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/muriloabreuinacio" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://dataxstudios.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Site-DataXStudios-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site Oficial" />
-  </a> 
-  <a href="mailto:contato@dataxstudios.com.br"> 
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> 
-  </a> 
 </div>
