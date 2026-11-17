@@ -4,7 +4,7 @@
 ### Analista de Sistemas & Desenvolvedor Full Stack (.NET | Angular | SQL Server)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloabreuinacio)
-[![dataxstudios](https://img.shields.io/badge/DataX_Studios-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dataxstudios.com.br)
+[![dataxstudios](https://img.shields.io/badge/dataxstudios-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dataxstudios.com.br)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@dataxstudios.com.br)
 [![Azure AZ-900](https://img.shields.io/badge/Microsoft_Certified-AZ--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/)
 
