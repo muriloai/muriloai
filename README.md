@@ -21,7 +21,7 @@ Minha stack principal é **C#, .NET (Framework e Core), ASP.NET MVC/Web API, Ang
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏥 ERP Corporativo de Saúde</h4>
+      <h4>ERP Corporativo de Saúde</h4>
       <p>
         <img src="https://img.shields.io/badge/Angular-v7_→_v14-DD0031?style=flat-square&logo=angular&logoColor=white" />
         <img src="https://img.shields.io/badge/.NET_Framework-4.8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -34,7 +34,7 @@ Minha stack principal é **C#, .NET (Framework e Core), ASP.NET MVC/Web API, Ang
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🔄 Modernização e Migração de Legados</h4>
+      <h4>Modernização e Migração de Legados</h4>
       <p>
         <img src="https://img.shields.io/badge/Legado-ASP_/_ASPX_/_MVC_5-4B5563?style=flat-square" />
         <img src="https://img.shields.io/badge/Destino-.NET_8/10_&_PHP-2563EB?style=flat-square" />
@@ -48,7 +48,7 @@ Minha stack principal é **C#, .NET (Framework e Core), ASP.NET MVC/Web API, Ang
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ Automação Operacional & Integrações</h4>
+      <h4>Automação Operacional & Integrações</h4>
       <p>
         <img src="https://img.shields.io/badge/Tempo_por_Ficha-17,5m_→_1,5m_(-91%25)-16A34A?style=flat-square" />
         <img src="https://img.shields.io/badge/Desktop-C%23_WinForms_/_WPF-512BD4?style=flat-square" />
@@ -60,7 +60,7 @@ Minha stack principal é **C#, .NET (Framework e Core), ASP.NET MVC/Web API, Ang
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🚀 Freelance & Produtos Próprios (DXS)</h4>
+      <h4>Freelance & Produtos Próprios (DXS)</h4>
       <p>
         <img src="https://img.shields.io/badge/PageSpeed_/_SEO-90%25+-16A34A?style=flat-square&logo=pagespeedinsights&logoColor=white" />
         <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
