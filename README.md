@@ -12,7 +12,7 @@
 
 Tenho **mais de 6 anos de experiência acumulada em desenvolvimento de software**, atuando em todas as etapas do ciclo da aplicação: levantamento de requisitos, modelagem de dados, implementação de regras de negócio, construção de interfaces, testes automatizados e sustentação em produção.
 
-Minha stack principal é **C#, .NET (Framework e Core), ASP.NET MVC/Web API, Angular (v7 ao v14), TypeScript, JavaScript e SQL Server**, com bastante prática em refatoração, evolução de sistemas críticos e modernização de código legado. Possuo formação em **Análise e Desenvolvimento de Sistemas** e pós-graduação em **Big Data Analytics**.
+Minha stack principal é **C#, .NET (Framework e Core), ASP.NET MVC/Web API, Angular (v7 ao v14), TypeScript, JavaScript e SQL Server**, com bastante prática em refatoração, evolução de sistemas críticos e modernização de código legado. Possuo formação em **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
