@@ -1,7 +1,7 @@
 <div align="center">
 
 # Murilo de Abreu Inácio
-### Analista de Sistemas & Desenvolvedor Full Stack · .NET | Angular | SQL Server
+### Analista de Sistemas & Desenvolvedor Full Stack - .NET | Angular | SQL Server
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloabreuinacio)
 [![dataxstudios](https://img.shields.io/badge/dataxstudios-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dataxstudios.com.br)
@@ -12,7 +12,7 @@
 
 Tenho **mais de 6 anos de experiência acumulada em desenvolvimento de software**, atuando em todas as etapas do ciclo da aplicação: levantamento de requisitos, modelagem de dados, implementação de regras de negócio, construção de interfaces, testes automatizados e sustentação em produção.
 
-Minha stack principal é **C#, .NET (Framework e Core), ASP.NET MVC/Web API, Angular (v7 ao v14), TypeScript, JavaScript e SQL Server**, com bastante prática em refatoração, evolução de sistemas críticos e modernização de código legado. Possuo formação em **Análise e Desenvolvimento de Sistemas**.
+Minha stack principal é **C#, .NET (Framework e Core), ASP.NET MVC/Web API, Angular (v7 ao v14), TypeScript, JavaScript e SQL Server (T-SQL)**, com bastante prática em refatoração, evolução de sistemas críticos e modernização de código legado. Possuo formação em **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
@@ -25,12 +25,12 @@ Minha stack principal é **C#, .NET (Framework e Core), ASP.NET MVC/Web API, Ang
       <p>
         <img src="https://img.shields.io/badge/Angular-v7_→_v14-DD0031?style=flat-square&logo=angular&logoColor=white" />
         <img src="https://img.shields.io/badge/.NET_Framework-4.8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL_Server-T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
       </p>
       <ul>
-        <li>Migração gradual do frontend <strong>Angular 7 para 14</strong> e criação de componentes dinâmicos orientados por metadados.</li>
-        <li>Suíte de testes automatizados com <strong>Jasmine, Karma e Cypress</strong> protegendo regras críticas em produção.</li>
-        <li>Sustentação de backend <strong>C# / Web API</strong>, atualização de pacotes legados e manutenção de procedures/views no SQL Server.</li>
+        <li>Migração gradual do frontend <strong>Angular 7 para 14</strong>, rebranding completo e criação de componentes dinâmicos orientados por metadados.</li>
+        <li>Suíte de testes automatizados com <strong>Jasmine, Karma e Cypress</strong> protegendo regras críticas do setor de saúde suplementar (<strong>TISS, TUSS, PTU, SIB</strong>).</li>
+        <li>Sustentação de backend <strong>C# / Web API</strong>, atualização de pacotes legados e manutenção de <strong>Stored Procedures (T-SQL) e views</strong> no SQL Server.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -118,7 +118,7 @@ Minha stack principal é **C#, .NET (Framework e Core), ASP.NET MVC/Web API, Ang
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" />&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" />
       </p>
-      <p align="center"><sub>C# · .NET Framework & .NET 8/10 · ASP.NET MVC/Core · Angular · TypeScript · SQL Server · EF Core</sub></p>
+      <p align="center"><sub>C# · .NET Framework & .NET 8/10 · ASP.NET MVC/Core · Angular · TypeScript · SQL Server (T-SQL) · EF Core</sub></p>
     </td>
     <td width="50%" valign="top">
       <h4 align="center">DevOps, Cloud & Projetos Web</h4>
