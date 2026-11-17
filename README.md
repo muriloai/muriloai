@@ -1,7 +1,7 @@
 <div align="center">
 
 # Murilo de Abreu Inácio
-### Analista de Sistemas & Desenvolvedor Full Stack - .NET | Angular | SQL Server
+### Analista de Sistemas & Desenvolvedor Full Stack · .NET | Angular | SQL Server
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloabreuinacio)
 [![dataxstudios](https://img.shields.io/badge/dataxstudios-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dataxstudios.com.br)
