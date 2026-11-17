@@ -8,9 +8,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@dataxstudios.com.br)
 [![Azure AZ-900](https://img.shields.io/badge/Microsoft_Certified-AZ--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/)
 
-<p>Mais de <strong>6 anos de experiência acumulada em desenvolvimento de software</strong> · Graduado em <strong>ADS (Fatec)</strong> · Pós-graduado em <strong>Big Data Analytics</strong></p>
-
 </div>
+
+Tenho **mais de 6 anos de experiência acumulada em desenvolvimento de software**, atuando em todas as etapas do ciclo da aplicação: levantamento de requisitos, modelagem de dados, implementação de regras de negócio, construção de interfaces, testes automatizados e sustentação em produção.
+
+Minha stack principal é **C#, .NET (Framework e Core), ASP.NET MVC/Web API, Angular (v7 ao v14), TypeScript, JavaScript e SQL Server**, com bastante prática em refatoração, evolução de sistemas críticos e modernização de código legado. Possuo formação em **Análise e Desenvolvimento de Sistemas** e pós-graduação em **Big Data Analytics**.
 
 ---
 
