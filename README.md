@@ -1,7 +1,7 @@
 # Murilo de Abreu Inácio
 ### Analista de Sistemas e Desenvolvedor Full Stack (.NET e Angular)
 
-Atuo com **desenvolvimento de software há 6 anos** e tenho mais de 13 anos de experiência em TI. Minha experiência abrange levantamento de requisitos, modelagem de dados, implementação de regras de negócio, desenvolvimento de interfaces e suporte em produção.
+Tenho **mais de 6 anos de experiência acumulada em desenvolvimento de software**, atuando no levantamento de requisitos, modelagem de dados, implementação de regras de negócio, construção de interfaces e sustentação em produção.
 
 Minha stack principal é **C#, .NET (Framework e Core), Angular (v7 ao v14), TypeScript, JavaScript e SQL Server**, com bastante prática em refatoração, sustentação e modernização de código legado.
 
@@ -11,8 +11,8 @@ Minha stack principal é **C#, .NET (Framework e Core), Angular (v7 ao v14), Typ
 
 * **Evolução e modernização em produção:** Atuação na migração do frontend do Angular 7 para o 14 em sistema corporativo da área de saúde, criação de testes automatizados com Jasmine, Karma e Cypress para proteger fluxos críticos e atualização de componentes e dependências legadas em .NET Framework.
 * **Automação operacional e migração de legados:** Desenvolvimento de sistema desktop em .NET que reduziu o tempo de digitação de fichas de 17,5 minutos para 1,5 minuto por cadastro, além da migração de aplicações antigas em ASP clássico e ASPX para versões modernas em PHP com MySQL.
-* **Coexistência e refatoração de código legado:** No projeto [Cobrança Web](https://github.com/muriloai/cobranca-web-dotnet), integro uma aplicação legada em ASP.NET MVC 5 (.NET Framework 4.8) a uma API em .NET 8 sobre o mesmo SQL Server, evoluindo contratos HTTP (`v1` e `v2`) sem quebrar consumidores antigos. No [Survey Data Entry](https://github.com/muriloai/winforms-survey-data-entry), reestruturei e evoluí uma solução desktop de 2018 em C# Windows Forms, migrando de MySQL externo para SQLite local com transações ACID e interface reformulada.
-* **APIs, regras de negócio e mensageria:** Na [Healthcare Claims API](https://github.com/muriloai/healthcare-claims-api), implemento validação e emissão de guias médicas em .NET 10 com autorização isolada por prestador e respostas de erro padronizadas (Problem Details). No [Order Orchestrator](https://github.com/muriloai/order-orchestrator), demonstro processamento assíncrono de pedidos e deduplicação de estoque com .NET 10, Angular, RabbitMQ, SQL Server e OpenTelemetry.
+* **Coexistência e refatoração de código legado:** No projeto [Cobrança Web](https://github.com/muriloai/cobranca-web-dotnet), integro uma aplicação legada em ASP.NET MVC 5 (.NET Framework 4.8) a uma API em .NET 8 e frontend Angular sobre o mesmo SQL Server, evoluindo contratos HTTP (`v1` e `v2`) sem quebrar consumidores antigos. No [Survey Data Entry](https://github.com/muriloai/winforms-survey-data-entry), reestruturei uma solução desktop de 2018 em C# Windows Forms, migrando de MySQL externo para SQLite local com transações ACID e interface reformulada.
+* **APIs, banco de dados e sistemas distribuídos:** Na [Healthcare Claims API](https://github.com/muriloai/healthcare-claims-api), implemento validação de guias médicas em .NET 10 com isolamento por prestador, testes de integração e erros padronizados (Problem Details). No [Gestão de Orçamentos](https://github.com/muriloai/gestao-orcamentos-razor-sqlserver), desenvolvi o controle de propostas comerciais em ASP.NET Core 10, Razor e SQL Server com preservação de histórico de envio e análise de planos de execução, enquanto no [Order Orchestrator](https://github.com/muriloai/order-orchestrator) demonstro processamento assíncrono e deduplicação de estoque com .NET 10, Angular, RabbitMQ e OpenTelemetry.
 
 ---
 
@@ -34,8 +34,8 @@ Minha stack principal é **C#, .NET (Framework e Core), Angular (v7 ao v14), Typ
   <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure DevOps" title="Azure DevOps" />
 </p>
 
-#### Projetos próprios (DXS)
-*Ferramentas que crio e mantenho:*
+#### Projetos próprios e atuação freelance (DXS)
+*Soluções e ferramentas que desenvolvo e mantenho:*
 
 <p align="left">
   <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" title="Astro" />
@@ -44,9 +44,9 @@ Minha stack principal é **C#, .NET (Framework e Core), Angular (v7 ao v14), Typ
   <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" />
 </p>
 
-* **Extensões para o Chrome:** Ferramentas publicadas na Chrome Web Store.
-* **Ferramentas web com privacidade:** Utilitários para editores e devs que processam tudo direto no navegador, com total privacidade confirmada, sem coletar dados do usuário.
-* **Sites estáticos rápidos:** Páginas feitas com Astro e deploy automático via GitHub Actions.
+* **Evolução e manutenção de sistemas:** Atuação freelance em melhorias, correções e evolução de aplicações web e integrações.
+* **Sites estáticos de alta performance:** Projetos desenvolvidos em Astro com deploy automatizado via GitHub Actions e pontuação acima de 90% em SEO e desempenho no Google PageSpeed.
+* **Extensões para o Chrome e ferramentas web:** Extensões publicadas na Chrome Web Store e utilitários em JavaScript na plataforma da DataX Studios que processam os dados diretamente no navegador, garantindo privacidade ao usuário.
 
 #### Estudos e aprofundamento
 *O que venho estudando e praticando:*
