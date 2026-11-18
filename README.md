@@ -60,7 +60,7 @@ Minha stack principal é **C#, .NET (Framework e Core), ASP.NET MVC/Web API, Ang
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>Freelance & Produtos Próprios (DXS)</h4>
+      <h4>Freelance & Produtos Próprios</h4>
       <p>
         <img src="https://img.shields.io/badge/PageSpeed_/_SEO-90%25+-16A34A?style=flat-square&logo=pagespeedinsights&logoColor=white" />
         <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
