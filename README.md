@@ -4,7 +4,6 @@
 ### Analista de Sistemas & Desenvolvedor Full Stack - .NET | Angular | SQL Server
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloabreuinacio)
-[![dataxstudios](https://img.shields.io/badge/dataxstudios-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dataxstudios.com.br)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@dataxstudios.com.br)
 [![Azure AZ-900](https://img.shields.io/badge/Microsoft_Certified-AZ--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/)
 
@@ -59,7 +58,7 @@ Com **mais de 6 anos de experiência acumulada em desenvolvimento de software** 
   <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" />&nbsp;
   <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" />
   <br />
-  <sub>Testes (MSTest, xUnit, Jasmine, Karma, Cypress) · OpenAPI/Swagger · RabbitMQ · OpenTelemetry · Docker · Azure · Azure DevOps · GitHub Actions · Git</sub>
+  <sub>Testes (MSTest, xUnit, Jasmine, Karma, Cypress) · OpenAPI/Swagger · RabbitMQ · OpenTelemetry · Docker · Azure (AZ-900) · Azure DevOps · GitHub Actions · Git</sub>
 </p>
 
 ---
