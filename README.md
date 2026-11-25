@@ -63,36 +63,11 @@ Com **mais de 6 anos de experiência acumulada em desenvolvimento de software** 
 
 ---
 
-### Projetos Públicos em Destaque
-
-<div align="center">
-  <a href="https://github.com/muriloai/cobranca-web-dotnet">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=muriloai&repo=cobranca-web-dotnet&theme=light_github_repocard" alt="Cobrança Web" />
-  </a>
-  <a href="https://github.com/muriloai/winforms-survey-data-entry">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=muriloai&repo=winforms-survey-data-entry&theme=light_github_repocard" alt="Survey Data Entry" />
-  </a>
-  <a href="https://github.com/muriloai/healthcare-claims-api">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=muriloai&repo=healthcare-claims-api&theme=light_github_repocard" alt="Healthcare Claims API" />
-  </a>
-  <a href="https://github.com/muriloai/gestao-orcamentos-razor-sqlserver">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=muriloai&repo=gestao-orcamentos-razor-sqlserver&theme=light_github_repocard" alt="Gestão de Orçamentos" />
-  </a>
-  <a href="https://github.com/muriloai/order-orchestrator">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=muriloai&repo=order-orchestrator&theme=light_github_repocard" alt="Order Orchestrator" />
-  </a>
-  <a href="https://github.com/muriloai/NetStatAnalyzer">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=muriloai&repo=NetStatAnalyzer&theme=light_github_repocard" alt="NetStatAnalyzer" />
-  </a>
-</div>
-
----
-
 ### Estatísticas
 
 <div align="center">
   <a href="https://github.com/muriloai">
-    <img src="https://github-stats-extended.vercel.app/api?username=muriloai&show_icons=true&theme=light_github&include_all_commits=true" alt="Estatísticas do GitHub" height="155" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=muriloai&layout=compact&theme=light_github&langs_count=8&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens Mais Usadas" height="155" />
+    <img src="https://github-stats-extended.vercel.app/api?username=muriloai&show_icons=true&theme=light_github&include_all_commits=true&show=contributions" alt="Estatísticas do GitHub" height="165" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=muriloai&layout=compact&theme=light_github&langs_count=8&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens Mais Usadas" height="165" />
   </a>
 </div>
