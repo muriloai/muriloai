@@ -58,7 +58,7 @@ Com **mais de 6 anos de experiência acumulada em desenvolvimento de software** 
   <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" />&nbsp;
   <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" />
   <br />
-  <sub>Testes (MSTest, xUnit, Jasmine, Karma, Cypress) · OpenAPI/Swagger · RabbitMQ · OpenTelemetry · Docker · Azure (AZ-900) · Azure DevOps · GitHub Actions · Git</sub>
+  <sub>Testes (MSTest, xUnit, Jasmine, Karma, Cypress) · OpenAPI/Swagger · RabbitMQ · OpenTelemetry · Docker · Azure · Azure DevOps · GitHub Actions · Git</sub>
 </p>
 
 ---
